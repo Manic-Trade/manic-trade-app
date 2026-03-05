@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+/.dart_tool
+.externalNativeBuild
+.flutter-plugins
+.flutter-plugins-dependencies
+/.vscode
+
+# Android signing
+android/app/key.properties
+android/app/*.jks
+android/app/*.keystore
+
+
+.env.json
