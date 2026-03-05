@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>复制-icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="返佣-已邀请记录" transform="translate(-397, -990)">
+            <g id="邀请码" transform="translate(54, 831)">
+                <g id="复制-icon" transform="translate(343, 159)">
+                    <g id="编组" transform="translate(24, 24) scale(-1, 1) translate(-24, -24)translate(4, 4)" stroke="#9DA2A7" stroke-width="4">
+                        <path d="M11.5555556,8 L36.4444444,8 C38.4081236,8 40,9.59187645 40,11.5555556 L40,36.4444444 C40,38.4081236 38.4081236,40 36.4444444,40 L11.5555556,40 C9.59187645,40 8,38.4081236 8,36.4444444 L8,11.5555556 C8,9.59187645 9.59187645,8 11.5555556,8 Z" id="矩形"></path>
+                        <path d="M0,32 L0,7.11111111 C-8.8817842e-16,3.18375289 3.18375289,1.77635684e-15 7.11111111,8.8817842e-16 L31,0 L31,0" id="路径"></path>
+                    </g>
+                    <rect id="矩形" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
