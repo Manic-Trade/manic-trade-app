@@ -1,0 +1,15 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          # To use ISO 8601 strings
+          store_date_time_values_as_text: true
+          # Relative path to the database file
+          databases:
+            # Required: A name for the database and its path
+            wallet_database: lib/data/drift/wallet_database.dart
+            # Optional: Add more databases
+            token_database: lib/data/drift/token_database.dart
+            tx_database: lib/data/drift/tx_database.dart
+            user_preferences_database: lib/data/drift/user_preferences_database.dart
