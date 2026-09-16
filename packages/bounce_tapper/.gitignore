@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+/.dart_tool
+.externalNativeBuild
+.flutter-plugins
+.flutter-plugins-dependencies
+/.vscode
